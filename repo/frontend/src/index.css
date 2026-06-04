@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Noto Serif SC', 'Songti SC', serif;
+  background-color: #fdf8f6;
+}
+
+.heritage-gradient {
+  background: linear-gradient(135deg, #6f5048 0%, #a18072 50%, #bfa094 100%);
+}
+
+.card-shadow {
+  box-shadow: 0 4px 20px rgba(111, 80, 72, 0.15);
+}
+
+.booth-map {
+  position: relative;
+  background-image: 
+    linear-gradient(rgba(191, 160, 148, 0.3) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(191, 160, 148, 0.3) 1px, transparent 1px);
+  background-size: 50px 50px;
+}
