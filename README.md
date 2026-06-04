@@ -1,0 +1,2 @@
+# intangible-heritage-festival-minutes
+非物质文化遗产节策划会议风物纪要全栈系统——前端展示手工艺人肖像与展位图，后端记录文旅局与传承人讨论，Whisper方言模型转写，pyannote标记各项非遗代表，OpenAI生成节日活动流程图与宣传要点摘要，邮件发送媒体与赞助商
